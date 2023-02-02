@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml"/>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>widgets/BounceAnimation.qml</file>
+    </qresource>
+</RCC>
